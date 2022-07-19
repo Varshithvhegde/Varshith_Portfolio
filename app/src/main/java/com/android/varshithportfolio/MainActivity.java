@@ -31,7 +31,9 @@ public class MainActivity extends AppCompatActivity {
             view.loadUrl(url);
             return true;
         }
-        
+
+
+
     }
     @Override
     public void onBackPressed(){
